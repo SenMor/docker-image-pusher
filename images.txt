@@ -1,1 +1,1 @@
-node:18
+cloudflare/cloudflared:latest
