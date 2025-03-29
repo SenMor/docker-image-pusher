@@ -1,1 +1,1 @@
-cloudflare/cloudflared:latest
+docker.io/library/redis:latest
