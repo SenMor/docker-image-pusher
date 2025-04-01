@@ -1,1 +1,1 @@
-docker.io/library/redis:latest
+docker.io/library/mysql:latest
